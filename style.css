@@ -25,6 +25,7 @@ body {
   background-position: center;
   position: relative;
   transition: flex 0.2s ease-in;
+  cursor : pointer;
 }
 
 .images.active {
